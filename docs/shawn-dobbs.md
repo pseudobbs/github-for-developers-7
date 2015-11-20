@@ -7,3 +7,5 @@
 **Favorite Food:** Ice Cream!
 
 **Hobby:** Coding!
+
+**Favorite Color:** Grizzeen!
